@@ -1,0 +1,16 @@
+name:
+  compact: Vítor Gabriel
+  full: Vítor Gabriel dos Santos Macena da Silva
+
+avatar:
+  github: https://github.com/vitorgsms.png
+
+occupations:
+  - id: 202614320030
+    type: student
+    course: csbes-jp
+    isFinished: false
+
+addresses:
+  github: https://github.com/vitorgsms
+  email: macena.silva@academico.ifpb.edu.br
